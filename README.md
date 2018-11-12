@@ -1,7 +1,7 @@
 # AndroidButtonProgress
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidButtonProgress-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6957) [![](https://jitpack.io/v/abdularis/AndroidButtonProgress.svg)](https://jitpack.io/#abdularis/AndroidButtonProgress)
 
-This is a combination of button and progress bar. There are 4 states in this view first Idle, Indeterminate, Determinate and Finish. it makes you easy to manage download button state in your app ui.
+This is a combination of button and progress bar. There are 4 state in this view first Idle, Indeterminate, Determinate and Finish. it makes you easy to manage download button state in your app ui.
 
 In a download case you can use this as.
 
